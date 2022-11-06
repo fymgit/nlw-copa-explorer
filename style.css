@@ -11,21 +11,21 @@
     --primary-title-border: #746615;
     --primary-card-border-color: #f7dd43;
     --card-bg-color: #1D1C19;
-    --bg-svg: url(/assets/background-yellow.svg);
+    --bg-svg: url(./assets/background-yellow.svg);
 }
 
 body.blue {
     --primary-title-border: #338AF3;
     --primary-card-border-color: #338AF3;
     --card-bg-color: #202024;
-    --bg-svg: url(/assets/background-blue.svg);
+    --bg-svg: url(./assets/background-blue.svg);
 }
 
 body.green {
     --primary-title-border: #047C3F;
     --primary-card-border-color: #047C3F;
     --card-bg-color: #1A1F1B;
-    --bg-svg: url(/assets/background-green.svg);
+    --bg-svg: url(./assets/background-green.svg);
 }
 
 
