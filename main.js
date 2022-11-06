@@ -25,8 +25,8 @@ function createGame (team1, hour, team2) {
 
 
 document.querySelector('#cards').innerHTML =                                                              
-createCard("24/11", "Quinta", createGame('switzerland', '07:00', 'cameroon') + createGame('serbia', '13:00', 'portugal')) + 
+createCard("20/11", "Domingo", createGame('qatar', '13:00', 'ecuador')) + 
 
-createCard("28/11", "Segunda", createGame('brazil', '10:00', 'ghana'))
+createCard("24/11", "Segunda", createGame('brazil', '16:00', 'serbia') + createGame('switzerland', '07:00', 'cameroon') + createGame('uruguay', '10:00', 'southkorea'))
 
 // uso de concatenação para usar outra function createGame com novos parâmetros para a criação de uma nova li com outro jogo
